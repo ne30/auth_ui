@@ -15,3 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # auth_ui
+# 1
+![Sign In](https://github.com/ne30/auth_ui/blob/main/screenshots/signin.png?raw=true)
+# 
+# 2
+![Sign Up](https://github.com/ne30/auth_ui/blob/main/screenshots/signup.png?raw=true)
